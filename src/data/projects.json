@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Grub Finder",
+      "imageSrc": "projects/project.png",
+      "description": "Participated in a collaborative project with peers to develop a food-centric version of a popular dating app, fostering teamwork and innovative problem-solving skills.",
+      "skills": ["React JS", "Express", "CSS","MongoDB","Amazon S3"],
+      "demo": "https://salty-garden-48822-8b55e17325be.herokuapp.com/",
+      "source": "https://github.com/jademoslares/grub-finder"
+    },
+    {
+      "title": "My Family",
+      "imageSrc": "projects/project.png",
+      "description": "Collaborated with peers to develop an event planning application, facilitating invitation management and RSVP tracking for enhanced event coordination and organization.",
+      "skills": ["Django", "CSS", "Node", "Postgresql", "Python3"],
+      "demo": "https://my-family-26dae1a2fe73.herokuapp.com/",
+      "source": "https://github.com/BolleyB/my_family"
+    },
+    {
+      "title": "GA-Marketplace",
+      "imageSrc": "projects/project.png",
+      "description": "Collaborated with peers to design and develop a professional-grade clothing marketplace website. Our project integrated features for seamless buying and selling of garments.",
+      "skills": ["Express EJS", "CSS", "MongoDB","Google Oauth"],
+      "demo": "https://arcane-meadow-90413-3bd59a11fb6a.herokuapp.com/",
+      "source": "https://github.com/odalysruano/ga-marketplace"
+    }
+  ]
