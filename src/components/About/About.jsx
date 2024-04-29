@@ -5,7 +5,7 @@ import styles from "./About.module.css";
 export const About = () => {
   return (
     <section className={styles.container} id="about">
-      <h2 className={styles.title}>About</h2>
+      <h2 className={styles.title}>About Me</h2>
       <div className={styles.content}>
         <img
           src={getImageUrl("about/aboutImage2.png")}
@@ -14,37 +14,44 @@ export const About = () => {
         />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="cursor" />
+            <img src={getImageUrl("about/general.png")} alt="cursor" />
             <div className={styles.aboutItemText}>
-              <h3>General Assembly</h3>
+              <h3>General Assembly || 2024</h3>
               <p>
-                I am a frontend developer with a passion for creating visually
-                appealing and user-friendly interfaces. I have experience with
-                React, JavaScript, and CSS.
+                Full-stack software engineering 420 hour program focused on
+                product development fundamentals, object-oriented programming,
+                MVC frameworks, data modeling, and team collaboration
+                strategies.
               </p>
             </div>
           </li>
 
-          <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/serverIcon.png")} alt="cursor" />
+          {/* <li className={styles.aboutItem}>
+            <img src={getImageUrl("about/default.png")} alt="cursor" />
             <div className={styles.aboutItemText}>
-              <h3>SLI Inc</h3>
+              <h3>SLI Inc || 2018</h3>
               <p>
-                I am a backend developer with experience in building RESTful
-                APIs and working with databases. I have experience with Node.js,
-                Express, and MongoDB.
+                One-month intensive training program focusing on C# and its
+                technologies. This included mastering fundamental and advanced
+                concepts, hands-on experience with ASP.NET Core and Entity
+                Framework, and proficiency with development tools like Visual
+                Studio.
               </p>
             </div>
-          </li>
+          </li> */}
 
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="cursor" />
+            <img src={getImageUrl("about/sfics.png")} alt="cursor" />
             <div className={styles.aboutItemText}>
-              <h3>Saint Francis Institute of Computer Studies</h3>
+              <h3>Saint Francis Institute of Computer Studies || 2016</h3>
               <p>
-                I am a frontend developer with a passion for creating visually
-                appealing and user-friendly interfaces. I have experience with
-                React, JavaScript, and CSS.
+                I hold a Bachelor's degree in Information Technology (IT) earned
+                over four years. My studies encompassed a wide range of IT
+                disciplines, including software development, database
+                management, network administration, and system
+                analysis. Coursework included programming languages, database design, and IT project management. This
+                degree provides me with a solid foundation for success in
+                diverse IT roles.
               </p>
             </div>
           </li>

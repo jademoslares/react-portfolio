@@ -16,15 +16,15 @@
       "imageSrc": "skills/node.png"
     },
     {
-      "title": "GraphQL",
-      "imageSrc": "skills/graphql.png"
+      "title": "C#",
+      "imageSrc": "skills/csharp.png"
     },
     {
       "title": "MongoDB",
       "imageSrc": "skills/mongodb.png"
     },
     {
-      "title": "Figma",
-      "imageSrc": "skills/figma.png"
+      "title": "python",
+      "imageSrc": "skills/python.png"
     }
   ]

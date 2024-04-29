@@ -5,22 +5,10 @@
     "startDate": "Aug, 2021",
     "endDate": "Aug, 2022",
     "experiences": [
-      "Performed testing on software to uncover bugs and troubleshoot issues before application launches",
-      "Deploy software and Inspected equipment, assessed functionality and optimized controls ",
-      "Developed code fixes and enhancements for inclusion in future code releases and patches"
+      "Conducted thorough software testing to uncover and address bugs, troubleshooting issues prior to application launches, thereby ensuring smoother deployments and optimal user experiences.",
+      "Executed software deployments and conducted equipment inspections across four cities and evaluated system functionality, meticulously optimizing controls to enhance operational efficiency and performance.",
+      "Engineered code fixes and enhancements to seamlessly integrate into forthcoming code releases and patches, streamlining transactional processes for enhanced operational fluidity."
     ],
-    "imageSrc": "history/microsoft.png"
-  },
-  {
-    "role": "Internship",
-    "organization": "Convergys",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
-    "experiences": [
-      "Assisted with on-boarding process of new hires and managed employee exit interviews and paperwork",
-      "Answered and directed outbound and inbound phone calls per day",
-      "Generated and updated complete and accurate employee files"
-    ],
-    "imageSrc": "history/netflix.png"
+    "imageSrc": "history/ietc.png"
   }
 ]
