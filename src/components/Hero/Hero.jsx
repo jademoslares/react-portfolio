@@ -8,7 +8,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Jade</h1>
         <p className={styles.description}>
-          As an aspiring software developer, I hold a degree in IT and have
+          Im a software developer, I hold a degree in IT and have
           successfully completed a rigorous Software Immersive Course at General
           Assembly. I am passionate about leveraging my skills and knowledge to
           contribute to innovative projects and solutions. Feel free to reach
