@@ -71,7 +71,7 @@ export const Navbar = () => {
             <a href="#contact">Contacts</a>
           </li>
           <li>
-            <a href="#"onClick={downloadFile}>Resume</a>
+            <a onClick={downloadFile}>Resume</a>
           </li>
         </ul>
       </div>
